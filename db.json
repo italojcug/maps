@@ -1,0 +1,70 @@
+[
+   {
+      "NroCoibfe":"5280230",
+      "lat":"-21.754875",
+      "lon":"-60.361325"
+   },
+   {
+      "NroCoibfe":"0480717",
+      "VPA":"Carlos Kent",
+      "Produtor":"La Guampa S.a",
+      "Propriedade":"Estancia San Carlos II",
+      "QtdAnimais":45,
+      "lat":"-22.058920",
+      "lon":"-59.928433"
+   },
+   {
+      "NroCoibfe":"0480718",
+      "VPA":"Carlos Kent",
+      "Produtor":"La Guampa S.a",
+      "Propriedade":"Estancia San Carlos II",
+      "QtdAnimais":45,
+      "lat":"-22.058835",
+      "lon":"-59.928363"
+   },
+   {
+      "NroCoibfe":"0480719",
+      "VPA":"Carlos Kent",
+      "Produtor":"La Guampa S.a",
+      "Propriedade":"Estancia San Carlos II",
+      "QtdAnimais":45,
+      "lat":"-22.058835",
+      "lon":"-59.928363"
+   },
+   {
+      "NroCoibfe":"6600618",
+      "VPA":"Victor Barrios",
+      "Produtor":"Dennis Paul Rempel",
+      "Propriedade":"Estancia Delona",
+      "QtdAnimais":45,
+      "lat":"-21.813686",
+      "lon":"-59.901578"
+   },
+   {
+      "NroCoibfe":"6600619",
+      "VPA":"Victor Barrios",
+      "Produtor":"Dennis Paul Rempel",
+      "Propriedade":"Estancia Delona",
+      "QtdAnimais":43,
+      "lat":"-21.813686",
+      "lon":"-59.901578"
+   },
+   {
+      "NroCoibfe":"6600620",
+      "VPA":"Victor Barrios",
+      "Produtor":"Dennis Paul Rempel",
+      "Propriedade":"Estancia Delona",
+      "QtdAnimais":45,
+      "lat":"-21.813686",
+      "lon":"-59.901578"
+   },
+   {
+      "NroCoibfe":"6600621",
+      "VPA":"Victor Barrios",
+      "Produtor":"Dennis Paul Rempel",
+      "Propriedade":"Estancia Delona",
+      "QtdAnimais":44,
+      "lat":"-21.813686",
+      "lon":"-59.901578"
+   }
+]
